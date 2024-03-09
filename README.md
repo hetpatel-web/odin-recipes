@@ -7,3 +7,4 @@ This Recipe Site is my portfolio project created as I learn the basics of web de
 ## Technologies Used
 
 - _HTML:_ for the structure of the website
+
